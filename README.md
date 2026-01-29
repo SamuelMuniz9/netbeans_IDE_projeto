@@ -55,4 +55,8 @@ Abra o projeto no NetBeans e execute o comando Clean and Build.
 
 Inicie o servidor e acesse via localhost
 ```
-    
+
+
+
+   <img width="1400" height="819" alt="image" src="https://github.com/user-attachments/assets/341b6cbb-cb0f-4fb8-9d34-a44f9f629fe6" />
+
